@@ -1,6 +1,6 @@
 - 👋 Hola, soy @carluandraster
 - 👀 Estoy interesado en la programación
-- 🌱 Ahora mismo soy un Senior de JavaScript en vías de ser un máster
+- 🌱 Ahora mismo soy un midSenior de JavaScript en vías de ser un máster
 - 💞️ Quiero colaborar creando librerías para facilitar la programación
 - 📫 Seguíme en Codepen: @Carlos-Andres-Efstratiadis
 
